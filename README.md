@@ -1,18 +1,12 @@
 # 👨🏽‍💻 Alex Garcia
 
-**`Estudante de programação`**
+**`Estudante de Front-end`**
 
 Me chamo Alex Garcia, tenho 21 anos e sou natural da Bahia. Atualmente estou no 3º semestre de engenharia de software na UNIFACS. Sou apaixonado por tecnologia e gosto de aprender cada vez mais sobre a área.
 
 ---
 
-### 📊 Estatísticas
 
-
-  <a href="https://github.com/klayera7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klayera7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klayera7&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ### 🤖 Linguagens e Tecnologias
 
