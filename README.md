@@ -19,6 +19,7 @@ Me chamo Alex Garcia, tenho 21 anos e sou natural da Bahia. Atualmente estou no 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -26,6 +27,15 @@ Me chamo Alex Garcia, tenho 21 anos e sou natural da Bahia. Atualmente estou no 
     width="30px" 
     style="padding-right: 10px;"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
 />
 
 
@@ -36,6 +46,20 @@ Me chamo Alex Garcia, tenho 21 anos e sou natural da Bahia. Atualmente estou no 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/> 
+<br>
+
+---
+
+### ⏳ Ainda em aprendizado
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
 />
           
 
