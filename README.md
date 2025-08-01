@@ -2,7 +2,7 @@
 
 **`Estudante de Front-end`**
 
-Me chamo Alex Garcia, tenho 21 anos e sou natural da Bahia. Atualmente estou no 3º semestre de engenharia de software na UNIFACS. Sou apaixonado por tecnologia e gosto de aprender cada vez mais sobre a área.
+Me chamo Alex Garcia, tenho 21 anos e sou natural da Bahia. Atualmente estou no 4º semestre de engenharia de software na UNIFACS. Sou apaixonado por tecnologia e gosto de aprender cada vez mais sobre a área.
 
 ---
 
