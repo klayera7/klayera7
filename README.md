@@ -1,99 +1,61 @@
-# 👨🏽‍💻 Alex Garcia
+<h1 align="center">👋 Olá, eu sou o Alex Garcia</h1>
 
-**`Estudante de Front-end`**
-
-Me chamo Alex Garcia, tenho 21 anos e sou natural da Bahia. Atualmente estou no 4º semestre de engenharia de software na UNIFACS. Sou apaixonado por tecnologia e gosto de aprender cada vez mais sobre a área.
-
----
-
-
-
-### 🤖 Linguagens e Tecnologias
-
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
-/>
-
-
- <img 
-    align="left" 
-    alt="GIT" 
-    title="GIT"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/> 
-
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Tailwindcss" 
-    title="Tailwindcss"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<br>
+<p align="center">
+  <em>Estudante de Engenharia de Software | Desenvolvedor em formação | Apaixonado por tecnologia e aprendizado contínuo</em>
+</p>
 
 ---
 
-### ⏳ Ainda em aprendizado
+### 👨‍💻 Sobre mim  
+Sou **Alex Garcia**, tenho 21 anos e sou natural da **Bahia**.  
+Atualmente curso o **4º semestre de Engenharia de Software na UNIFACS**, e estou me aprofundando no universo da **programação Java**.  
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  
-/>
+Sou movido pela curiosidade e pela vontade de **aprender, construir e evoluir**. Gosto de unir **lógica e criatividade** para desenvolver soluções que realmente façam diferença.  
 
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  
-/>
-          
+---
 
+### 🚀 Linguagens e Tecnologias  
 
+#### 💡 Principais
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,vscode,idea" />
+</p>
 
-           
-          
+#### 📚 Em aprendizado
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+> 🔹 Aprofundando meus estudos em Java, com foco em orientação a objetos e desenvolvimento back-end.
 
+---
 
+### 💼 Projetos em destaque  
+🔗 Confira alguns dos meus projetos:  
+- 🌐 [Meu Portfólio](https://alexgarciadev.vercel.app) – Meu site pessoal desenvolvido com HTML, CSS e JavaScript.
+- 👤 [Psicóloga Carolline](https://www.psicarollinefigueiredo.com.br/) – Meu primeiro projeto freelancer, onde um cliente final ficou satisfeito, e eu coloquei em prática minhas habilidades.
+- 🕊️ [Mundo das Aves](https://klayera7.github.io/Mundo-das-Aves/) – Projeto inspirado em “Animais Fantásticos”, projeto do André Rafael.  
 
+---
+
+### 🧠 Soft Skills  
+✨ Comunicação e trabalho em equipe  
+🚀 Proatividade e aprendizado rápido  
+🧩 Resolução de problemas  
+💡 Criatividade e pensamento analítico  
+💬 Compartilhar conhecimento e colaborar em equipe  
+
+---
+
+### 🎓 Formação e Certificações  
+🎓 **Engenharia de Software** – UNIFACS (em andamento)  
+📜 Cursos complementares:  
+- **Programação Full Stack** – Infinity School (em andamento)
+- **Lógica de Programação** – Alura    
+- **POO e Introdução a linguagem JAVA** – Extensão Universitária  
+
+---
+
+### 🌐 Onde me encontrar  
+📩 **E-mail:** [alexkaua502@gmail.com](mailto:alexkaua502@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/alex-garcia-735492378](https://linkedin.com/in/alex-garcia-735492378)  
+💻 **Portfólio:** [alexgarciadev.vercel.app](https://alexgarciadev.vercel.app)  
